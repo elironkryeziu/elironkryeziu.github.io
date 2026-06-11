@@ -15,7 +15,6 @@ step and no external dependencies — GitHub Pages serves the file as-is.
 | File | Purpose |
 |------|---------|
 | `index.html` | The resume / landing page |
-| `cv.pdf` | Downloadable CV |
 
 ## Deploying changes
 
